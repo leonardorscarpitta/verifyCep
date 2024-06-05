@@ -16,7 +16,7 @@ Project Structure
 
 To compile and run this project, you will need the following installed:
 
-    Java Development Kit (JDK) (version 11 or higher)
+**Java Development Kit (JDK) (version 11 or higher)**
 
 ## ▶️ How to Run
 
