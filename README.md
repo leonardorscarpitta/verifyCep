@@ -26,7 +26,7 @@ To compile and run this project, you will need the following installed:
 
 2 - Navigate to the project directory.
 
-    cd verify-cep
+    cd verifyCep
 
 3 - Compile the project using a IDE: Eclipse, IntelliJ...
 
